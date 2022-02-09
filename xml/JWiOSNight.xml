@@ -220,7 +220,7 @@
     <boolean name="NameProf" value="false" />
     <boolean name="ModChatEmojiColor_Gactive" value="false" />
     <boolean name="ModChatBtnColor_Gactive" value="false" />
-    <boolean name="Conv_call_btnpg" value="false" />
+    <boolean name="Conv_call_btnpg" value="true" />
     <boolean name="KuKuKuntulKuntulAnying_Gactive" value="false" />
     <int name="ModChatRightBubble" value="-16625337" />
     <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
