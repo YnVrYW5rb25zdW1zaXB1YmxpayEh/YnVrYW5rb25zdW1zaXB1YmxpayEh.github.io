@@ -63,7 +63,7 @@
     <int name="ModDarkConPickColorNav" value="-592138" />
     <boolean name="rcname_color_sub_Gactive" value="false" />
     <boolean name="anti_vw_once" value="true" />
-    <string name="font">Default</string>
+    <string name="font">iOS Non Root</string>
     <int name="quoted_bg_picker" value="16514043" />
     <boolean name="Searchikon_Gactive" value="false" />
     <int name="ModConBackColore" value="-131587" />
