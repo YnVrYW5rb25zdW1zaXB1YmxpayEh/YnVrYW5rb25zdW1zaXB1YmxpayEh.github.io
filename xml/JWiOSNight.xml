@@ -70,7 +70,7 @@
     <int name="key_counter_tx" value="-1" />
     <boolean name="hide_acv" value="false" />
     <int name="HomeCounterText" value="-16777216" />
-    <boolean name="hidecallava" value="true" />
+    <boolean name="hidecallava" value="false" />
     <int name="main_text_datetime" value="31" />
     <int name="AnjingmuLepas" value="-1" />
     <boolean name="yoAntiRevoke" value="true" />
