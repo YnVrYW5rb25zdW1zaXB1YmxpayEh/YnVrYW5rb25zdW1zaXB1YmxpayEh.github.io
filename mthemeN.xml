@@ -1,16 +1,8 @@
 <themes>
 	<data xmls="https://and0aGVtZXM.elzexd.my.id/xml/" walls="https://and0aGVtZXM.elzexd.my.id/walls/" scs="https://and0aGVtZXM.elzexd.my.id/screens/"/>
 	<theme>
-		<title>JWiOSLight</title>
-		<date>06/09/6969</date>
-	</theme>
-	<theme>
 		<title>JWiOSLight_New</title>
 		<date>14/03/2022</date>
-	</theme>
-	<theme>
-		<title>JWiOSNight</title>
-		<date>06/09/6969</date>
 	</theme>
 	<theme>
 		<title>JWiOSDark_New</title>
