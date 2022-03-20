@@ -26,12 +26,13 @@
     <int name="ConvoBack" value="-16117477" />
     <boolean name="onlinechat" value="true" />
     <boolean name="enable_fivminstatus" value="false" />
+    <boolean name="chevronr_Gactive" value="false" />
     <string name="convostyle">2</string>
     <boolean name="ModFabBgColor_Gactive" value="false" />
     <int name="HomeCounterBK" value="-16744193" />
     <int name="ModChatBubbleTextLeft" value="-16777216" />
     <int name="ModChatColor_GC" value="-1" />
-    <boolean name="enable_grp_separationV2" value="false" />
+    <boolean name="enable_grp_separationV2" value="true" />
     <int name="quoted_divider_picker" value="-16744193" />
     <int name="ItemIcon" value="-16777216" />
     <int name="RcSeenColor" value="-6118750" />
@@ -43,7 +44,7 @@
     <int name="list_bg_color" value="16777215" />
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="group_mypicV2" value="false" />
-    <int name="SearchViw" value="-2566183" />
+    <int name="SearchViw" value="-16777216" />
     <int name="oh_anunya" value="-6381922" />
     <boolean name="sultanpic" value="false" />
     <boolean name="error_Gactive" value="false" />
@@ -80,8 +81,10 @@
     <int name="ModConBackColors" value="-1" />
     <string name="ui_home_style">1</string>
     <boolean name="HomeCounterBK_Gactive" value="false" />
+    <int name="vincent_list_attachC" value="-1" />
     <boolean name="DrawerText_Gactive" value="false" />
     <int name="ModConBackColor_GC" value="-328966" />
+    <boolean name="fabkontol_Gactive" value="false" />
     <boolean name="bubblenewtext_Gactive" value="false" />
     <boolean name="chat_icon_bg_forward_picker_Gactive" value="false" />
     <boolean name="ModWdgTitleColor_Gactive" value="false" />
@@ -117,6 +120,7 @@
     <boolean name="auto_reply_boolean" value="false" />
     <string name="home">1</string>
     <boolean name="RcTargetColor_Gactive" value="false" />
+    <boolean name="vincentprefdiv_Gactive" value="false" />
     <boolean name="statuses_bar_text_picker_Gactive" value="false" />
     <boolean name="CardStori_Gactive" value="false" />
     <boolean name="viewww_Gactive" value="false" />
@@ -159,12 +163,13 @@
     <boolean name="KuKuKuntulKuntulAnying_Gactive" value="false" />
     <int name="rcCard3_GCDir" value="2" />
     <boolean name="ModChaSendBKColor_Gactive" value="false" />
+    <int name="chevronr" value="-3881786" />
     <boolean name="pagetitle_sel_picker_Gactive" value="false" />
     <int name="error_GC" value="-15847284" />
     <int name="ModDarkConPickColor" value="-1" />
     <boolean name="BgSearch_Gactive" value="false" />
     <boolean name="chat_mypicV2" value="false" />
-    <int name="ModConTextColor" value="-6645093" />
+    <int name="ModConTextColor" value="-7697779" />
     <boolean name="key_with_thumb" value="true" />
     <int name="ModFabNormalColor_GC" value="-16102475" />
     <int name="attachbg" value="-526345" />
@@ -202,7 +207,7 @@
     <boolean name="emojipopup_icons_Gactive" value="false" />
     <int name="emojipopup_header" value="-263173" />
     <int name="ModChatGStatusB" value="-592138" />
-    <int name="HomeBarText" value="-16744193" />
+    <int name="HomeBarText" value="-16745729" />
     <boolean name="yoTostC_Gactive" value="false" />
     <boolean name="imsHideRStatus" value="false" />
     <boolean name="tittle_bold" value="false" />
@@ -228,6 +233,7 @@
     <int name="BkItem" value="16777215" />
     <boolean name="read_more" value="false" />
     <int name="CardStori_GCDir" value="2" />
+    <int name="vincentprefdiv" value="-3750200" />
     <int name="DrawerText" value="-16777216" />
     <boolean name="border_poto_Gactive" value="false" />
     <boolean name="yo_want_nightmode" value="false" />
@@ -240,6 +246,7 @@
     <boolean name="hiden_storyopt" value="false" />
     <boolean name="ModConBackColors_Gactive" value="false" />
     <boolean name="ModFabNormalColor_Gactive" value="false" />
+    <int name="colorcategory" value="-9605775" />
     <int name="KuKuKuntulKuntulAnying" value="-12493200" />
     <int name="ModChatEntry" value="-1" />
     <boolean name="Audio_ears" value="false" />
@@ -261,6 +268,8 @@
     <int name="CardStori_GC" value="-2039574" />
     <boolean name="RcBkTabs_Gactive" value="false" />
     <boolean name="ModContactNameColor_Gactive" value="false" />
+    <boolean name="colorcategory_Gactive" value="false" />
+    <int name="vincentprefdivatas" value="-5395027" />
     <int name="rcCard2_GC" value="-3093774" />
     <boolean name="ItemText_Gactive" value="false" />
     <boolean name="hide_Conv_groupcall_btn" value="true" />
@@ -282,6 +291,7 @@
     <string name="ui_home_styleV3">one</string>
     <string name="vincent_reaction_Tiga">🤣</string>
     <int name="ModHomeMentionIconColor" value="-16744193" />
+    <int name="card_view_bgg" value="-1" />
     <boolean name="chat_contactpicV2" value="false" />
     <boolean name="chats_row_divider_picker_Gactive" value="false" />
     <int name="ModConBackColor" value="-1" />
@@ -296,6 +306,7 @@
     <boolean name="hidecallava" value="false" />
     <int name="BgSearch" value="-1776153" />
     <int name="AnjingmuLepas" value="-1" />
+    <boolean name="card_view_bgg_Gactive" value="false" />
     <boolean name="rcCard1_Gactive" value="true" />
     <boolean name="disable_audioheads" value="false" />
     <int name="BGColor" value="-526345" />
@@ -306,7 +317,7 @@
     <int name="bgarchived" value="-1381641" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <int name="rcCard2_GCDir" value="2" />
-    <boolean name="want_status_toast" value="true" />
+    <boolean name="want_status_toast" value="false" />
     <boolean name="quoted_divider_picker_Gactive" value="false" />
     <boolean name="vincent_anim_lope" value="false" />
     <boolean name="ModChaSendColor_Gactive" value="false" />
@@ -314,6 +325,7 @@
     <boolean name="rcAttachBk_Gactive" value="false" />
     <int name="ModChaSendColor" value="33023" />
     <int name="pagetitle_sel_picker" value="-16744193" />
+    <boolean name="vincent_list_attachC_Gactive" value="false" />
     <boolean name="onlineDotchatColor_Gactive" value="false" />
     <int name="tabadgeBKColor" value="16394762" />
     <boolean name="admin_check" value="true" />
@@ -322,6 +334,7 @@
     <string name="yo_nicons">10</string>
     <boolean name="quoted_name_picker_Gactive" value="false" />
     <boolean name="fix_story_padding" value="true" />
+    <boolean name="vincentprefdivatas_Gactive" value="false" />
     <boolean name="custom_wall_profilepic" value="false" />
     <int name="rcCard3_GC" value="-270104" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
@@ -331,7 +344,7 @@
     <boolean name="vcard_sultanmods" value="false" />
     <int name="cevronChat" value="-11645362" />
     <int name="ModConColor" value="-592138" />
-    <boolean name="chats_show_contact_online_toast_check" value="false" />
+    <boolean name="chats_show_contact_online_toast_check" value="true" />
     <string name="tick_style">rcios11</string>
     <int name="ModConPickColor_GC" value="-1" />
     <boolean name="RcUnSeenColor_Gactive" value="false" />
@@ -361,6 +374,7 @@
     <boolean name="ModConColor_Gactive" value="false" />
     <int name="ModChatBubbleText" value="-16777216" />
     <int name="rvkdmsg_icon_color" value="-16744193" />
+    <boolean name="summ_Gactive" value="false" />
     <boolean name="ModChatGStatusB_Gactive" value="false" />
     <int name="emojipopup_icons" value="-16744193" />
     <boolean name="arc_hc_Gactive" value="false" />
@@ -416,6 +430,7 @@
     <int name="rcMicColor" value="-16753441" />
     <boolean name="AnjingmuLepas_Gactive" value="false" />
     <int name="quoted_name_picker" value="-16744193" />
+    <boolean name="vincent_sembunyi_divider" value="false" />
     <int name="dial_text" value="-16777216" />
     <boolean name="hide_message_bomber" value="true" />
     <string name="info_grup_style">0</string>
@@ -432,28 +447,30 @@
     <boolean name="enable_ig_stories" value="false" />
     <int name="ModConPickColor" value="-592138" />
     <boolean name="SearchViw_Gactive" value="false" />
+    <int name="summ" value="-7697779" />
     <boolean name="MiyaDilepasMontoonBercanda_Gactive" value="false" />
     <int name="CardStori" value="-263173" />
     <string name="key_story_view">4</string>
-    <boolean name="hiden_groupchat" value="true" />
+    <boolean name="hiden_groupchat" value="false" />
     <boolean name="date_left_color_Gactive" value="false" />
     <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
     <int name="ModConColor_GCDir" value="0" />
     <boolean name="UnSeenColor_Gactive" value="false" />
     <int name="error" value="-263173" />
     <boolean name="ModConBackColor_Gactive" value="false" />
+    <int name="fabkontol" value="-855306" />
     <int name="pic_chat_size_pickerV2" value="40" />
     <boolean name="RcsetBg_Gactive" value="false" />
     <boolean name="e2e_bubble_color_picker_Gactive" value="false" />
     <boolean name="custom_wall" value="false" />
     <boolean name="auto_disabled" value="true" />
     <boolean name="Conv_call_btns" value="false" />
+    <int name="vincent_list_attach" value="-592138" />
     <boolean name="elapsed_time" value="false" />
     <int name="rcAttachTx" value="-16777216" />
     <int name="btn_voice_color_chat_picker" value="-9076094" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <boolean name="Conv_call_btng" value="true" />
-    <int name="onlineDotchatColor" value="-16744193" />
     <int name="ModHomeMentionIndBackground" value="33023" />
     <boolean name="key_chat_iconback_picker_Gactive" value="false" />
     <int name="ModWdgBKColor" value="-1" />
@@ -461,5 +478,6 @@
     <boolean name="ModFabColor_Gactive" value="false" />
     <boolean name="ModWdgBKColor_Gactive" value="false" />
     <boolean name="enable_group" value="false" />
+    <boolean name="vincent_list_attach_Gactive" value="false" />
     <boolean name="vincent_disableweb" value="false" />
 </map>
