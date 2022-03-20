@@ -27,7 +27,7 @@
     <boolean name="ModFabBgColor_Gactive" value="false" />
     <int name="HomeCounterBK" value="-13328129" />
     <int name="ModChatBubbleTextLeft" value="-526345" />
-    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="enable_grp_separationV2" value="false" />
     <boolean name="vincent_title_Gactive" value="false" />
     <int name="ModFabTextColor" value="3709951" />
     <boolean name="key_counter_tx_Gactive" value="false" />
