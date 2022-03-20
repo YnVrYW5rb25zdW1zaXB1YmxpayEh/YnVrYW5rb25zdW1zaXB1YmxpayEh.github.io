@@ -32,7 +32,7 @@
     <int name="HomeCounterBK" value="-16744193" />
     <int name="ModChatBubbleTextLeft" value="-16777216" />
     <int name="ModChatColor_GC" value="-1" />
-    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="enable_grp_separationV2" value="false" />
     <int name="quoted_divider_picker" value="-16744193" />
     <int name="ItemIcon" value="-16777216" />
     <int name="RcSeenColor" value="-6118750" />
@@ -451,7 +451,7 @@
     <boolean name="MiyaDilepasMontoonBercanda_Gactive" value="false" />
     <int name="CardStori" value="-263173" />
     <string name="key_story_view">4</string>
-    <boolean name="hiden_groupchat" value="false" />
+    <boolean name="hiden_groupchat" value="true" />
     <boolean name="date_left_color_Gactive" value="false" />
     <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
     <int name="ModConColor_GCDir" value="0" />
