@@ -293,6 +293,7 @@
     <string name="vincent_reaction_Tiga">🤣</string>
     <int name="ModHomeMentionIconColor" value="-16744193" />
     <int name="card_view_bgg" value="-2628098" />
+    <int name="card_view_bgff" value="-2628098" />
     <boolean name="chat_contactpicV2" value="false" />
     <boolean name="chats_row_divider_picker_Gactive" value="false" />
     <int name="ModConBackColor" value="-1511425" />
@@ -384,6 +385,7 @@
     <boolean name="Audio_sensor" value="true" />
     <int name="viewww" value="-1" />
     <int name="GroupedBG" value="-1511425" />
+    <int name="GroupedBG2" value="-1511425" />
     <boolean name="status_nm_Gactive" value="false" />
     <boolean name="rcAttachIcon_Gactive" value="false" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
