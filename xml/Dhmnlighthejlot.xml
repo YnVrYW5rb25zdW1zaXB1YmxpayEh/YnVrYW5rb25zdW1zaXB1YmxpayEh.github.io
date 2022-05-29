@@ -263,6 +263,7 @@
     <int name="ModOnlineColor" value="-16744193" />
     <string name="conversation_style_attach">0</string>
     <int name="ModChaSendBKColor" value="-16744193" />
+    <boolean name="GroupedBG_Gactive" value="false" />
     <boolean name="hiden_chattab" value="false" />
     <boolean name="belilah" value="true" />
     <int name="CardStori_GC" value="-2039574" />
@@ -309,6 +310,7 @@
     <boolean name="card_view_bgg_Gactive" value="false" />
     <boolean name="rcCard1_Gactive" value="true" />
     <boolean name="disable_audioheads" value="false" />
+    <boolean name="iosmablas" value="true" />
     <int name="BGColor" value="-526345" />
     <boolean name="rcMicColor_Gactive" value="false" />
     <boolean name="yo_hide_msg_translator" value="true" />
@@ -364,7 +366,7 @@
     <int name="vincent_title" value="-16777216" />
     <boolean name="ModConPickColor_Gactive" value="false" />
     <boolean name="my_namex" value="false" />
-    <string name="HomeEntry">nlmods</string>
+    <string name="HomeEntry">waca</string>
     <boolean name="ArsipStatus_On" value="false" />
     <int name="date_divider_color_picker" value="-16777216" />
     <boolean name="bubblenew_Gactive" value="false" />
@@ -376,11 +378,13 @@
     <int name="rvkdmsg_icon_color" value="-16744193" />
     <boolean name="summ_Gactive" value="false" />
     <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <boolean name="key_blur_ios_tab" value="true" />
     <int name="emojipopup_icons" value="-16744193" />
     <boolean name="arc_hc_Gactive" value="false" />
     <int name="ModContactNameColor" value="-16777216" />
     <boolean name="Audio_sensor" value="true" />
     <int name="viewww" value="-1" />
+    <int name="GroupedBG" value="-855305" />
     <boolean name="status_nm_Gactive" value="false" />
     <boolean name="rcAttachIcon_Gactive" value="false" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
@@ -432,7 +436,7 @@
     <int name="quoted_name_picker" value="-16744193" />
     <boolean name="vincent_sembunyi_divider" value="false" />
     <int name="dial_text" value="-16777216" />
-    <boolean name="hide_message_bomber" value="true" />
+    <boolean name="hide_message_bomber" value="false" />
     <string name="info_grup_style">0</string>
     <boolean name="rcAddColor_Gactive" value="false" />
     <boolean name="log_show_name_check" value="true" />
@@ -455,6 +459,7 @@
     <boolean name="date_left_color_Gactive" value="false" />
     <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
     <int name="ModConColor_GCDir" value="0" />
+    <boolean name="expand_title" value="false" />
     <boolean name="UnSeenColor_Gactive" value="false" />
     <int name="error" value="-263173" />
     <boolean name="ModConBackColor_Gactive" value="false" />
