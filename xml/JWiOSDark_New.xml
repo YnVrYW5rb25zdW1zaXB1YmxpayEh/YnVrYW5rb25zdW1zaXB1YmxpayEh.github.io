@@ -27,7 +27,7 @@
     <boolean name="ModFabBgColor_Gactive" value="false" />
     <int name="HomeCounterBK" value="-13328129" />
     <int name="ModChatBubbleTextLeft" value="-526345" />
-    <boolean name="enable_grp_separationV2" value="true" />
+    <boolean name="enable_grp_separationV2" value="false" />
     <boolean name="vincent_title_Gactive" value="false" />
     <int name="ModFabTextColor" value="3709951" />
     <boolean name="key_counter_tx_Gactive" value="false" />
@@ -103,7 +103,7 @@
     <int name="mensen" value="-15263977" />
     <string name="key_quick_position">top</string>
     <boolean name="carview_Gactive" value="false" />
-    <boolean name="hiden_telpon" value="true" />
+    <boolean name="hiden_telpon" value="false" />
     <boolean name="yoHideStatViewV2" value="false" />
     <boolean name="quoted_bg_picker_Gactive" value="false" />
     <boolean name="yoHideStatViewV3" value="true" />
@@ -350,7 +350,7 @@
     <boolean name="hiden_search_act" value="false" />
     <boolean name="PicProf" value="false" />
     <int name="chat_icon_forward_picker" value="-1" />
-    <boolean name="hiden_group" value="false" />
+    <boolean name="hiden_group" value="true" />
     <boolean name="vincent_nl" value="false" />
     <string name="vincent_reaction_satu">👍🏻</string>
     <string name="bubble_style">apple</string>
