@@ -220,7 +220,7 @@
     <int name="vincentprefdivatas" value="-14211289" />
     <boolean name="newAttach_BottomDesign" value="true" />
     <int name="chat_icon_bg_forward_picker" value="-12961222" />
-    <boolean name="Hide_div" value="true" />
+    <boolean name="Hide_div" value="false" />
     <boolean name="list_bg_color_Gactive" value="false" />
     <boolean name="Header_atas_Gactive" value="false" />
     <int name="ModWdgTitleColor" value="-1" />
