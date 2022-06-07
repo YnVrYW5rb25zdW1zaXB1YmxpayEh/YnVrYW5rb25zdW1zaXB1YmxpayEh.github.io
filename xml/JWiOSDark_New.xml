@@ -21,7 +21,7 @@
     <boolean name="hiden_fab" value="true" />
     <boolean name="HomeBarText_Gactive" value="false" />
     <boolean name="onlinechat" value="true" />
-    <boolean name="enable_fivminstatus" value="true" />
+    <boolean name="enable_fivminstatus" value="false" />
     <boolean name="chevronr_Gactive" value="false" />
     <string name="convostyle">2</string>
     <boolean name="ModFabBgColor_Gactive" value="false" />
@@ -42,7 +42,7 @@
     <boolean name="yoAntiRevoke" value="false" />
     <boolean name="tabadgeBKColor_Gactive" value="false" />
     <int name="ModFabBgColor" value="-15263977" />
-    <boolean name="onlineDotchat" value="true" />
+    <boolean name="onlineDotchat" value="false" />
     <int name="ModChatBubbleHyperlinks" value="-13328129" />
     <int name="ModlastseenColor" value="3709951" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
@@ -99,7 +99,7 @@
     <boolean name="vincentprefdiv_Gactive" value="false" />
     <boolean name="statuses_bar_text_picker_Gactive" value="false" />
     <string name="vincent_reaction_Lima">🥲</string>
-    <int name="text_size_pick" value="18" />
+    <int name="text_size_pick" value="16" />
     <int name="mensen" value="-15263977" />
     <string name="key_quick_position">top</string>
     <boolean name="carview_Gactive" value="false" />
@@ -174,7 +174,7 @@
     <boolean name="hiden_storywa" value="false" />
     <int name="statuses_bar_text_picker" value="-7697778" />
     <boolean name="ModHomeMentionIndBackground_Gactive" value="false" />
-    <boolean name="isSwipeEnabledV2" value="true" />
+    <boolean name="isSwipeEnabledV2" value="false" />
     <boolean name="attachbg_Gactive" value="false" />
     <boolean name="hiden_kamera" value="false" />
     <int name="status_nw" value="-12280833" />
@@ -220,7 +220,7 @@
     <int name="vincentprefdivatas" value="-14211289" />
     <boolean name="newAttach_BottomDesign" value="true" />
     <int name="chat_icon_bg_forward_picker" value="-12961222" />
-    <boolean name="Hide_div" value="false" />
+    <boolean name="Hide_div" value="true" />
     <boolean name="list_bg_color_Gactive" value="false" />
     <boolean name="Header_atas_Gactive" value="false" />
     <int name="ModWdgTitleColor" value="-1" />
@@ -250,7 +250,6 @@
     <int name="AnjingmuLepas" value="-1" />
     <boolean name="card_view_bgg_Gactive" value="false" />
     <boolean name="disable_audioheads" value="false" />
-    <boolean name="iosmablas" value="false" />
     <int name="BGColor" value="-15263977" />
     <boolean name="yo_hide_msg_translator" value="false" />
     <boolean name="hiden_nav" value="false" />
@@ -287,7 +286,7 @@
     <boolean name="chats_show_contact_online_toast_check_" value="false" />
     <int name="tabindicator" value="-13328129" />
     <string name="info_kontak_style">0</string>
-    <boolean name="imsHideMStatus" value="true" />
+    <boolean name="imsHideMStatus" value="false" />
     <boolean name="ModChatTextColor_Gactive" value="false" />
     <boolean name="hide_sticker" value="false" />
     <boolean name="key_quick_view" value="false" />
@@ -350,7 +349,7 @@
     <boolean name="hiden_search_act" value="false" />
     <boolean name="PicProf" value="false" />
     <int name="chat_icon_forward_picker" value="-1" />
-    <boolean name="hiden_group" value="true" />
+    <boolean name="hiden_group" value="false" />
     <boolean name="vincent_nl" value="false" />
     <string name="vincent_reaction_satu">👍🏻</string>
     <string name="bubble_style">apple</string>
@@ -383,11 +382,10 @@
     <int name="summ" value="-6645345" />
     <boolean name="MiyaDilepasMontoonBercanda_Gactive" value="false" />
     <string name="key_story_view">4</string>
-    <boolean name="hiden_groupchat" value="false" />
+    <boolean name="hiden_groupchat" value="true" />
     <boolean name="date_left_color_Gactive" value="false" />
     <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
     <boolean name="runtex_Gactive" value="false" />
-    <boolean name="expand_title" value="false" />
     <boolean name="UnSeenColor_Gactive" value="false" />
     <boolean name="ModConBackColor_Gactive" value="false" />
     <int name="Text_Nama" value="-16579837" />
@@ -402,7 +400,6 @@
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <string name="key_application_theme">1</string>
     <boolean name="Conv_call_btng" value="true" />
-    <int name="onlineDotchatColor" value="-13328129" />
     <int name="ModHomeMentionIndBackground" value="3449087" />
     <int name="ModWdgBKColor" value="-15263977" />
     <boolean name="enable_size" value="false" />
