@@ -351,7 +351,7 @@
     <int name="ModFabNormalColor_GCDir" value="2" />
     <int name="ModConPickColor_GCDir" value="2" />
     <boolean name="hiden_group" value="false" />
-    <string name="bubble_style">cvios</string>
+    <string name="bubble_style">apple</string>
     <boolean name="ModChatColor_Gactive" value="false" />
     <boolean name="cevronChat_Gactive" value="false" />
     <boolean name="pic_inside" value="false" />

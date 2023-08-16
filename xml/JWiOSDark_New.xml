@@ -307,7 +307,7 @@
     <int name="ModChatBubbleText" value="-1" />
     <int name="rvkdmsg_icon_color" value="-13328129" />
     <boolean name="ModChatGStatusB_Gactive" value="false" />
-    <boolean name="key_blur_ios_tab" value="false" />
+    <boolean name="key_blur_ios_tab" value="true" />
     <int name="emojipopup_icons" value="-13328129" />
     <boolean name="arc_hc_Gactive" value="false" />
     <int name="ModContactNameColor" value="-526345" />
