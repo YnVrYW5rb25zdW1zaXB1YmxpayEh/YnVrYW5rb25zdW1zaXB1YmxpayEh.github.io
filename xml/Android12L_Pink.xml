@@ -347,7 +347,7 @@
     <boolean name="vcard_sultanmods" value="false" />
     <int name="cevronChat" value="-11645362" />
     <int name="ModConColor" value="-341035" />
-    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
     <string name="tick_style">rcios11</string>
     <int name="ModConPickColor_GC" value="-1" />
     <boolean name="RcUnSeenColor_Gactive" value="false" />

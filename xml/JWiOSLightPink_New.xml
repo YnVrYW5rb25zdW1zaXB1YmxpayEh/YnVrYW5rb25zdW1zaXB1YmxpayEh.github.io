@@ -314,7 +314,7 @@
     <int name="bgarchived" value="-1381641" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <int name="rcCard2_GCDir" value="2" />
-    <boolean name="want_status_toast" value="true" />
+    <boolean name="want_status_toast" value="false" />
     <boolean name="quoted_divider_picker_Gactive" value="false" />
     <boolean name="vincent_anim_lope" value="false" />
     <boolean name="ModChaSendColor_Gactive" value="false" />

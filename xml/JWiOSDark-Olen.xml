@@ -280,7 +280,7 @@
     <string name="ConvoEntry">28</string>
     <int name="cevronChat" value="-6118750" />
     <int name="ModConColor" value="-15263977" />
-    <boolean name="chats_show_contact_online_toast_check" value="true" />
+    <boolean name="chats_show_contact_online_toast_check" value="false" />
     <boolean name="key_tab_unselect_menu_Gactive" value="false" />
     <string name="tick_style">rcios11</string>
     <boolean name="chats_show_contact_online_toast_check_" value="false" />
