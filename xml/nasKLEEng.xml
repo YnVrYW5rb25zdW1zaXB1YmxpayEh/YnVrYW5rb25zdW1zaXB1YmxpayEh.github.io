@@ -279,7 +279,7 @@
     <boolean name="ModContactNameColor_Gactive" value="false" />
     <boolean name="colorcategory_Gactive" value="false" />
     <int name="vincentprefdivatas" value="-5395027" />
-    <boolean name="key_toast_typing" value="true" />
+    <boolean name="key_toast_typing" value="false" />
     <int name="rcCard2_GC" value="-3093774" />
     <boolean name="ItemText_Gactive" value="false" />
     <boolean name="hide_Conv_groupcall_btn" value="true" />
