@@ -403,4 +403,45 @@
     <boolean name="ModWdgBKColor_Gactive" value="false" />
     <boolean name="participant_name_color_picker_Gactive" value="false" />
     <boolean name="vincent_disableweb" value="false" />
+    <boolean name="abu_saleh_toast_profile_cs" value="true" />
+    <boolean name="abu_saleh_toast_profile_el" value="false" />
+    <boolean name="abu_saleh_toast_online_cs" value="true" />
+    <boolean name="abu_saleh_toast_status_view" value="true" />
+    <int name="abu_saleh_toast_online_bc" value="-15329513" />
+    <boolean name="abu_saleh_toast_typing_view" value="true" />
+    <int name="abu_saleh_toast_status_bc" value="-15329513" />
+    <boolean name="abu_saleh_toast_status_cs" value="true" />
+    <int name="abu_saleh_toast_profile_bc" value="-15329513" />
+    <boolean name="abu_saleh_toast_typing_bc_Gactive" value="false" />
+    <int name="abu_saleh_toast_typing_tc" value="-1" />
+    <boolean name="abu_saleh_toast_online_bc_check" value="true" />
+    <string name="abu_saleh_toast_status_gv">0</string>
+    <int name="abu_saleh_toast_typing_rd" value="23" />
+    <boolean name="abu_saleh_toast_status_el" value="false" />
+    <boolean name="abu_saleh_toast_online_el" value="false" />
+    <boolean name="abu_saleh_toast_profile_view" value="false" />
+    <boolean name="abu_saleh_toast_status_bc_check" value="true" />
+    <boolean name="abu_saleh_toast_profile_tc_check" value="true" />
+    <string name="abu_saleh_toast_online_gv">0</string>
+    <boolean name="abu_saleh_toast_typing_tc_check" value="true" />
+    <boolean name="abu_saleh_toast_profile_bc_Gactive" value="false" />
+    <boolean name="yo_want_toolbar_cam" value="true" />
+    <boolean name="abu_saleh_toast_typing_bc_check" value="true" />
+    <int name="abu_saleh_toast_profile_tc" value="-1" />
+    <int name="abu_saleh_toast_online_rd" value="23" />
+    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="abu_saleh_toast_online_bc_Gactive" value="false" />
+    <int name="abu_saleh_toast_online_tc" value="-1" />
+    <int name="abu_saleh_toast_status_tc" value="-1" />
+    <int name="abu_saleh_toast_profile_rd" value="23" />
+    <int name="abu_saleh_toast_status_rd" value="23" />
+    <boolean name="abu_saleh_toast_typing_cs" value="true" />
+    <boolean name="abu_saleh_toast_online_tc_check" value="true" />
+    <boolean name="abu_saleh_toast_online_view" value="true" />
+    <int name="abu_saleh_toast_typing_bc" value="-15329513" />
+    <string name="abu_saleh_toast_profile_gv">0</string>
+    <string name="abu_saleh_toast_typing_gv">0</string>
+    <boolean name="abu_saleh_toast_status_bc_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_profile_bc_check" value="true" />
+    <boolean name="abu_saleh_toast_typing_el" value="false" />
 </map>
