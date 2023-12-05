@@ -1,26 +1,21 @@
 <themes>
 	<data xmls="https://and0aGVtZXM.elzexd.my.id/xml/" walls="https://and0aGVtZXM.elzexd.my.id/walls/" scs="https://and0aGVtZXM.elzexd.my.id/screens/"/>
 	<theme>
-		<title>JWiOSLight_New</title>
+		<title>JWiOSLight_NewBanget</title>
+		<date>15/12/2023</date>
+	</theme>
+	<theme>
+		<title>JWiOSDark_NewBanget</title>
+		<date>15/12/2023</date>
+	</theme>
+	<theme>
+		<title>JWiOSLight_Old</title>
 		<date>28/06/2022</date>
 	</theme>
 	<theme>
-		<title>JWiOSDark_New</title>
+		<title>JWiOSDark_Old</title>
 		<date>28/06/2022</date>
 	</theme>
-	<theme>
-		<title>Dhmnlighthejlot</title>
-		<date>29/05/2022</date>
-	</theme>
-	<theme>
-		<title>JWiOSPink</title>
-		<date>20/03/2022</date>
-	</theme>
-	<theme>
-		<title>JWiOSDarkOlen</title>
-		<date>20/03/2022</date>
-	</theme>
-	<theme>
 		<title>Ancient6_3</title>
 		<date>02/04/2022</date>
 	</theme>
