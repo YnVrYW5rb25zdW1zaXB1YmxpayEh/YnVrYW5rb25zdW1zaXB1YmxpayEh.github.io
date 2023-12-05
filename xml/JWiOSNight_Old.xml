@@ -6,6 +6,7 @@
     <int name="tittle_size" value="18" />
     <int name="key_avatar_border_size" value="0" />
     <boolean name="disable_hiddenchat_access" value="false" />
+    <boolean name="vincent_new_ui" value="true" />
     <boolean name="my_statusd" value="true" />
     <int name="navigasi" value="-16777216" />
     <boolean name="imsHideVStatus" value="false" />
