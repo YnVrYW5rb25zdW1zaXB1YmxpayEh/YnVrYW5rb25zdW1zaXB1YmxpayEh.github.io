@@ -117,7 +117,7 @@
     <boolean name="emojipopup_header_Gactive" value="false" />
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <boolean name="home_imgBK" value="false" />
-    <string name="yo_nicons">50</string>
+
     <boolean name="quoted_name_picker_Gactive" value="false" />
     <boolean name="fix_story_padding" value="true" />
     <boolean name="custom_wall_profilepic" value="false" />
