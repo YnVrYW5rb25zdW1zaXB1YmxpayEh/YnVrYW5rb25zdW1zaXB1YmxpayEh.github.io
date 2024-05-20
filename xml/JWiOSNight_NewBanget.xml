@@ -360,7 +360,7 @@
     <boolean name="Conv_call_btnpg" value="true" />
     <int name="ModChatRightBubble" value="-15446729" />
     <boolean name="ModHomeMentionIconColor_Gactive" value="false" />
-    <int name="ModChatLeftBubble" value="-15329513" />
+    <int name="ModChatLeftBubble" value="-14408409" />
     <boolean name="start_bl" value="false" />
     <int name="yoTostC" value="-13328129" />
     <boolean name="chat_icon_forward_picker_Gactive" value="false" />
@@ -371,7 +371,7 @@
     <boolean name="Archv_chats" value="true" />
     <int name="yoTostT" value="-1" />
     <int name="e2e_bubble_color_picker" value="-770107111" />
-    <int name="HomeBarBar2" value="-8355712" />
+    <int name="HomeBarBar2" value="--1325400065" />
     <boolean name="ModOnlineColor_Gactive" value="false" />
     <boolean name="hiden_search_act" value="false" />
     <boolean name="PicProf" value="false" />
